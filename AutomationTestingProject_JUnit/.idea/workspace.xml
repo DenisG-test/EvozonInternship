@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c09b47de-9865-4971-9af1-505c94fc9a30" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30rT7ElzVqvmcJCcghdYRtuoxCK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Navigation.executor": "Run",
+    "Application.NavigationTest.executor": "Run",
+    "Application.Playwright2.executor": "Run",
+    "Application.Registration.executor": "Run",
+    "Application.ShoppingCart.executor": "Run",
+    "JUnit.AccountsTest.testLogin.executor": "Run",
+    "JUnit.AccountsTest.testRegistration.executor": "Run",
+    "JUnit.HomepageTest.homepageAssignment.executor": "Run",
+    "JUnit.NavigationTest.executor": "Run",
+    "JUnit.NavigationTest.navigationGoogle.executor": "Run",
+    "JUnit.NavigationTest.testNavigationAssignment.executor": "Run",
+    "JUnit.NavigationTest.testNewProductListAssignment.executor": "Run",
+    "JUnit.SearchBarTest.searchBar.executor": "Run",
+    "Maven.AutomationTestingProject [clean].executor": "Run",
+    "Maven.AutomationTestingProject [compile].executor": "Run",
+    "Maven.AutomationTestingProject [install].executor": "Run",
+    "Maven.AutomationTestingProject [test].executor": "Run",
+    "Maven.AutomationTestingProject [validate].executor": "Run",
+    "Maven.AutomationTestingProject [verify].executor": "Run",
+    "Maven.Playwright2 [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/denisgavrilescu/Playwright2/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountsTest.testLogin">
+    <configuration name="Homepage" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homepage" />
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountsTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AccountsTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountsTest.testRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AccountsTest" />
+      <option name="METHOD_NAME" value="testRegistration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageTest.homepageAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.HomepageTest" />
+      <option name="METHOD_NAME" value="homepageAssignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest.testNewProductListAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.NavigationTest" />
+      <option name="METHOD_NAME" value="testNewProductListAssignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBarTest.searchBar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SearchBarTest" />
+      <option name="METHOD_NAME" value="searchBar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Homepage" />
+      <item itemvalue="JUnit.AccountsTest.testLogin" />
+      <item itemvalue="JUnit.AccountsTest.testRegistration" />
+      <item itemvalue="JUnit.HomepageTest.homepageAssignment" />
+      <item itemvalue="JUnit.NavigationTest.testNewProductListAssignment" />
+      <item itemvalue="JUnit.SearchBarTest.searchBar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountsTest.testLogin" />
+        <item itemvalue="JUnit.AccountsTest.testRegistration" />
+        <item itemvalue="JUnit.HomepageTest.homepageAssignment" />
+        <item itemvalue="JUnit.SearchBarTest.searchBar" />
+        <item itemvalue="JUnit.NavigationTest.testNewProductListAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c09b47de-9865-4971-9af1-505c94fc9a30" name="Changes" comment="" />
+      <created>1754384524393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754384524393</updated>
+      <workItem from="1754384525510" duration="526000" />
+      <workItem from="1754385073460" duration="13051000" />
+      <workItem from="1754409915534" duration="23000" />
+      <workItem from="1754461908029" duration="12395000" />
+      <workItem from="1754488263002" duration="2956000" />
+      <workItem from="1754548289951" duration="22093000" />
+      <workItem from="1754637193272" duration="2724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
